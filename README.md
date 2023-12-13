@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-X299-CASCADE-LAKE-XW-PUBLIC/assets/23700365/f767014c-a8c7-48ec-a2b4-84086222236e)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-X299-CASCADE-LAKE-XW-PUBLIC/assets/23700365/7d8235ea-6d19-46ad-8799-b23d6291ec1e)
+
 # Basic Info
 
 Note|Description
